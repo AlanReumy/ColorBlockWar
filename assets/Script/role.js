@@ -52,11 +52,6 @@ cc.Class({
 
   // 碰撞开始的回调
   onBeginContact(contact, selfCollider, otherCollider) {
-    // console.log(contact);
-    // console.log(selfCollider)
-    // console.log('other', otherCollider)
-    // console.log(selfCollider.node.sign, otherCollider.node.sign)
-
     //判断地板颜色于角色颜色是否相同
     if (
       otherCollider.node.sign !== 4 &&
@@ -78,7 +73,6 @@ cc.Class({
       this.isJump = false
     }
 
-    // console.log(otherCollider.node.sign,selfCollider.node.sign,'9999999')
     // 在碰撞中如果颜色不同
     if (
       otherCollider.node.sign !== 4 &&
