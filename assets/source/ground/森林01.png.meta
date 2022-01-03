@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "d27f7bc9-4c1e-4c1a-be5c-7f71080df7e8",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 126,
+  "height": 47,
+  "platformSettings": {},
+  "subMetas": {
+    "森林01": {
+      "ver": "1.0.6",
+      "uuid": "4b651d63-3ff0-4ce2-ab05-7ece0fa8df6e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "d27f7bc9-4c1e-4c1a-be5c-7f71080df7e8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 126,
+      "height": 47,
+      "rawWidth": 126,
+      "rawHeight": 47,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

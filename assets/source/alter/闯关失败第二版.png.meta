@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "1e9ab6b0-5e57-4c9c-82fb-4418c4829888",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 839,
+  "height": 522,
+  "platformSettings": {},
+  "subMetas": {
+    "闯关失败第二版": {
+      "ver": "1.0.6",
+      "uuid": "3e2ce129-53cd-4dbf-9a11-27c7c3aaa8de",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1e9ab6b0-5e57-4c9c-82fb-4418c4829888",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 839,
+      "height": 522,
+      "rawWidth": 839,
+      "rawHeight": 522,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
