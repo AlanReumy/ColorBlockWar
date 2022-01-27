@@ -1,6 +1,6 @@
-# ColorBlockWar
+# ColorBlockWar（色块大战）
 
-一个使用 cocos creator 开发的二维游戏
+一个基于 `cocos creator 2.4.6 + JavaScript` 开发的二维跑酷游戏
 
 ## 主要玩法
 
